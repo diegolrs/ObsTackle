@@ -1,8 +1,7 @@
 # ObsTackle
 
-## Obstackle is a game created by me
-
-### It was made using Java programming language and using Eclipse as IDE
+### Obstackle is a game created by me.
+### It was made using Java programming language and Eclipse as IDE
 ### You will find on this project:
 
 * Score system;
@@ -13,6 +12,7 @@
 * Spritesheet imports;
 * Basic collision system;
 * Random class aplications
+* KeyListener class applications
 
 <p align="center">
   <img width="100%" height="100%" src="https://github.com/diegolrs/ObsTackle/blob/master/ObsTackle/ObsTackle.gif">
