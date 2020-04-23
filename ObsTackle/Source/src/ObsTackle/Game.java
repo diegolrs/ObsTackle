@@ -170,11 +170,11 @@ public class Game extends Canvas implements Runnable, KeyListener{
 				long now = System.nanoTime();
 				
 				if(now - lastTime >= ns) {
-					// Lógica do jogo
+					// LÃ³gica do jogo
 						frames++;
 						tick();
 						render();
-						lastTime = System.nanoTime();
+						lastTime = now;
 				}
 			}
 			else {
