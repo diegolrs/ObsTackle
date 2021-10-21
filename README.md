@@ -1,6 +1,6 @@
 # ObsTackle
 
-### Obstackle is a game created by me.
+### Obstackle is a game created to learn how to program in Java
 ### It was made using Java programming language and Eclipse as IDE
 ### You will find on this project:
 
