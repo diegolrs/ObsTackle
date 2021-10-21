@@ -2,7 +2,7 @@
 
 ### Obstackle is a game created to learn how to program in Java
 ### It was made using Java programming language and Eclipse as IDE
-### You will find on this project:
+### Was used in this project:
 
 * Score system;
 * Highscore system;
